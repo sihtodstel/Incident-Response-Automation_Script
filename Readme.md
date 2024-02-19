@@ -26,13 +26,13 @@ The Incident Response Automation Script is a tool that allows for the automated 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/incident-response-automation.git
+    git clone https://github.com/sihtodstel/Incident-Response-Automation_Script.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd incident-response-automation
+    cd Incident-Response-Automation_Script
     ```
 
 3. Modify the target IP address in the script (if needed).
